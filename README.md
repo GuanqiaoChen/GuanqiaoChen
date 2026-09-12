@@ -2,21 +2,18 @@
 
 <br>
 
-<!-- Use h3 instead of h1 so GitHub does not render the default horizontal heading rule.
-     The visitor badge sits inline and is lowered with <sub> to the name's bottom-right. -->
-<h3>
-  <code>Gabriel Chen</code>&nbsp;
-  <sub>
-    <img
-      src="https://komarev.com/ghpvc/?username=GuanqiaoChen&style=flat-square&label=visitors&labelColor=111813&color=D4B483"
-      alt="Profile views"
-    />
-  </sub>
-</h3>
+<!-- Large centered title, matching the original dark/black look without an h1 underline. -->
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=40&duration=1&pause=999999&color=24292F&center=true&vCenter=true&repeat=false&width=360&height=58&lines=Gabriel+Chen"
+    alt="Gabriel Chen"
+  />
+</p>
 
 <a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=18&duration=3200&pause=1100&color=7E9A83&center=true&vCenter=true&repeat=true&width=620&height=36&lines=ideas%20%C2%B7%20code%20%C2%B7%20systems.;curiosity%20%3E%20certainty;%E6%B5%B7%E9%98%94%E5%87%AD%E9%B1%BC%E8%B7%83%EF%BC%8C%E5%A4%A9%E9%AB%98%E4%BB%BB%E9%B8%9F%E9%A3%9E"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=18&duration=3200&pause=1100&color=7E9A83&center=true&vCenter=true&repeat=true&width=620&height=36&lines=idea%20%C2%B7%20code%20%C2%B7%20system;curiosity%20%3E%20certainty;%E6%B5%B7%E9%98%94%E5%87%AD%E9%B1%BC%E8%B7%83%EF%BC%8C%E5%A4%A9%E9%AB%98%E4%BB%BB%E9%B8%9F%E9%A3%9E"
     alt="Typing SVG"
   />
 </a>
@@ -24,6 +21,7 @@
 <br><br>
 
 <!-- languages -->
+
 <p>
   <img src="https://img.shields.io/badge/Python-111813?style=for-the-badge&logo=python&logoColor=7E9A83" alt="Python" />
   <img src="https://img.shields.io/badge/Go-111813?style=for-the-badge&logo=go&logoColor=7E9A83" alt="Go" />
@@ -35,6 +33,7 @@
 </p>
 
 <!-- frameworks / infrastructure -->
+
 <p>
   <img src="https://img.shields.io/badge/FastAPI-111813?style=flat-square&logo=fastapi&logoColor=7E9A83" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Node.js-111813?style=flat-square&logo=nodedotjs&logoColor=7E9A83" alt="Node.js" />
