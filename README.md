@@ -12,7 +12,6 @@ alt="idea · code · system · curiosity > certainty · 海阔凭鱼跃，天高
 width="620"
 />
 
-<br>
 
 <!-- languages -->
 
