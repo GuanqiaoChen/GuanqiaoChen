@@ -2,9 +2,17 @@
 
 <br>
 
-<h1>
-  <code>Gabriel Chen</code>
-</h1>
+<!-- Use h3 instead of h1 so GitHub does not render the default horizontal heading rule.
+     The visitor badge sits inline and is lowered with <sub> to the name's bottom-right. -->
+<h3>
+  <code>Gabriel Chen</code>&nbsp;
+  <sub>
+    <img
+      src="https://komarev.com/ghpvc/?username=GuanqiaoChen&style=flat-square&label=visitors&labelColor=111813&color=D4B483"
+      alt="Profile views"
+    />
+  </sub>
+</h3>
 
 <a href="https://git.io/typing-svg">
   <img
@@ -12,14 +20,6 @@
     alt="Typing SVG"
   />
 </a>
-
-<br><br>
-
-<!-- visitors: restrained warm accent -->
-<img
-  src="https://komarev.com/ghpvc/?username=GuanqiaoChen&style=flat-square&label=visitors&labelColor=111813&color=D4B483"
-  alt="Profile views"
-/>
 
 <br><br>
 
