@@ -36,7 +36,7 @@
 
 ---
 
-### `01 / notes`
+### `notes`
 
 ```yaml
 name: Gabriel Chen
@@ -61,7 +61,7 @@ rule:
 
 <br>
 
-### `02 / toolkit`
+### `toolkit`
 
 <!--
   Monochrome badges intentionally replace colorful skill icons.
@@ -92,7 +92,7 @@ rule:
 
 <br>
 
-### `03 / github`
+### `github`
 
 <div align="center">
 
@@ -121,7 +121,7 @@ rule:
 
 <br>
 
-### `04 / rhythm`
+### `rhythm`
 
 <div align="center">
 
@@ -142,40 +142,7 @@ rule:
 
 <br>
 
-### `05 / small signals`
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/state-building-4F6B57?style=flat-square&labelColor=111813" alt="building" />
-&nbsp;
-<img src="https://img.shields.io/badge/mode-curious-7E9A83?style=flat-square&labelColor=111813" alt="curious" />
-&nbsp;
-<img src="https://img.shields.io/badge/pace-unhurried-B7C7B5?style=flat-square&labelColor=111813" alt="unhurried" />
-&nbsp;
-<img src="https://img.shields.io/badge/fuel-coffee-D4B483?style=flat-square&labelColor=111813" alt="coffee" />
-
-</div>
-
-<br>
-
-### `06 / terminal`
-
-```text
-$ whoami
-a person who likes good systems and quiet details
-
-$ cat current.txt
-make it useful
-make it clear
-make it last
-
-$ echo $NEXT
-something worth keeping
-```
-
-<br>
-
-### `07 / elsewhere`
+### `elsewhere`
 
 <div align="center">
 
