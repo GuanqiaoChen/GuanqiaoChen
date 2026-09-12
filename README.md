@@ -17,7 +17,7 @@
 
 <br><br>
 
-<!-- dynamic badges: one restrained warm accent -->
+<!-- dynamic badges: muted sage with one restrained warm accent -->
 <img src="https://img.shields.io/github/followers/GuanqiaoChen?style=flat-square&logo=github&logoColor=B7C7B5&label=followers&labelColor=111813&color=4F6B57" alt="GitHub followers" />
 &nbsp;
 <img src="https://img.shields.io/github/stars/GuanqiaoChen?affiliations=OWNER&style=flat-square&logo=github&logoColor=B7C7B5&label=stars&labelColor=111813&color=4F6B57" alt="GitHub stars" />
@@ -65,7 +65,7 @@ rule:
 
 <!--
   Monochrome badges intentionally replace colorful skill icons.
-  This keeps the page inside one visual system.
+  This keeps the entire page inside one visual system.
 -->
 
 <p align="center">
@@ -96,17 +96,22 @@ rule:
 
 <div align="center">
 
+<!--
+  github-readme-stats public deployment was replaced here.
+  These two cards come from one visual system and support custom colors + SVG animation.
+-->
+
 <a href="https://github.com/GuanqiaoChen">
   <img
-    height="175"
-    src="https://github-readme-stats.vercel.app/api?username=GuanqiaoChen&show_icons=true&hide_border=true&bg_color=0B100D&title_color=B7C7B5&text_color=87968A&icon_color=7E9A83&ring_color=7E9A83&rank_icon=github&include_all_commits=true"
+    width="48%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GuanqiaoChen&theme=github_dark&title_color=B7C7B5&text_color=87968A&bg_color=0B100D&border_color=0B100D&icon_color=7E9A83&chart_color=D4B483&hide_logo=true&animation=load&duration=2.4"
     alt="GitHub stats"
   />
 </a>
 <a href="https://github.com/GuanqiaoChen">
   <img
-    height="175"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuanqiaoChen&layout=compact&langs_count=8&hide_border=true&bg_color=0B100D&title_color=B7C7B5&text_color=87968A"
+    width="48%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GuanqiaoChen&theme=github_dark&title_color=B7C7B5&text_color=87968A&bg_color=0B100D&border_color=0B100D&icon_color=7E9A83&chart_color=7E9A83&animation=sequence&duration=2.8"
     alt="Top languages"
   />
 </a>
@@ -132,11 +137,19 @@ rule:
 
 <br><br>
 
-<img
-  width="95%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=GuanqiaoChen&bg_color=0B100D&color=87968A&line=7E9A83&point=D4B483&area=true&area_color=4F6B57&hide_border=true&custom_title=quiet%20activity"
-  alt="GitHub activity graph"
-/>
+<!--
+  Replaces the currently unreliable github-readme-activity-graph deployment.
+  The profile-details card keeps the contribution/activity feel, but uses
+  the same muted palette and animation system as the cards above.
+-->
+
+<a href="https://github.com/GuanqiaoChen">
+  <img
+    width="95%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GuanqiaoChen&theme=github_dark&title_color=B7C7B5&text_color=87968A&bg_color=0B100D&border_color=0B100D&icon_color=7E9A83&chart_color=D4B483&animation=draw&duration=3"
+    alt="GitHub contribution activity"
+  />
+</a>
 
 </div>
 
