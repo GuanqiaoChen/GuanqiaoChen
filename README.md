@@ -2,18 +2,17 @@
 
 <br>
 
-<img src="./assets/name.svg" alt="Gabriel Chen" width="320" />
+<img src="./assets/name.svg" alt="Gabriel Chen" width="292" />
 
 <br>
 
-<a href="https://git.io/typing-svg">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=18&duration=3200&pause=1100&color=7E9A83&center=true&vCenter=true&repeat=true&width=620&height=36&lines=idea%20%C2%B7%20code%20%C2%B7%20system;curiosity%20%3E%20certainty;%E6%B5%B7%E9%98%94%E5%87%AD%E9%B1%BC%E8%B7%83%EF%BC%8C%E5%A4%A9%E9%AB%98%E4%BB%BB%E9%B8%9F%E9%A3%9E"
-    alt="Typing SVG"
-  />
-</a>
+<img
+src="./assets/typing.svg"
+alt="idea · code · system · curiosity > certainty · 海阔凭鱼跃，天高任鸟飞"
+width="620"
+/>
 
-<br><br>
+<br>
 
 <!-- languages -->
 
