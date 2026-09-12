@@ -2,14 +2,9 @@
 
 <br>
 
-<!-- Large centered title, matching the original dark/black look without an h1 underline. -->
+<img src="./assets/name.svg" alt="Gabriel Chen" width="320" />
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=40&duration=1&pause=999999&color=24292F&center=true&vCenter=true&repeat=false&width=360&height=58&lines=Gabriel+Chen"
-    alt="Gabriel Chen"
-  />
-</p>
+<br>
 
 <a href="https://git.io/typing-svg">
   <img
