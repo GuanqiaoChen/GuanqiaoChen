@@ -8,7 +8,7 @@
 
 <img
 src="./assets/typing.svg"
-alt="idea · code · system · curiosity > certainty · 海阔凭鱼跃，天高任鸟飞"
+alt="idea · code · system · curiosity > certainty"
 width="620"
 />
 
